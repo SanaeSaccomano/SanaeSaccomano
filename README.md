@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### ![icon_obiwan](https://user-images.githubusercontent.com/91669852/178108945-1bf081e4-a23a-4c99-89d3-30d9d1d9b065.PNG) Hello there !
 <!--
 **SanaeSaccomano/SanaeSaccomano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
