@@ -3,8 +3,8 @@
 # Ma recherche
 
 ![icon_google_scholar](https://user-images.githubusercontent.com/91669852/178109371-635ea1c4-0110-4d19-b65c-d3aaee5c7579.png)  Mon profil Google Scholar :  https://scholar.google.com/citations?user=HRSz8loAAAAJ&hl=en
-Profil ResearchGate
-Profil Orcid
+- Profil ResearchGate
+- Profil Orcid
 
 # Blog
 Wordpress
