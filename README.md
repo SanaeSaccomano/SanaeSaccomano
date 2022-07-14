@@ -32,6 +32,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 Matlab
+LateX
 
 ## IDEs
 
@@ -48,6 +49,14 @@ Matlab
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+
+## Azure
+- Azure fonction
+- Azure App Service
+- Azure Chatbot
+- Azure Blob storage
+- Application insights (azure Monitoring)
+- Microsoft Bot Framework
 
 <!--
 **SanaeSaccomano/SanaeSaccomano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
