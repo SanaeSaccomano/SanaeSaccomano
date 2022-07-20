@@ -2,11 +2,16 @@
 
 # Ma recherche
 
-![icon_google_scholar](https://user-images.githubusercontent.com/91669852/178109371-635ea1c4-0110-4d19-b65c-d3aaee5c7579.png)  Mon profil Google Scholar :  https://scholar.google.com/citations?user=HRSz8loAAAAJ&hl=en
-- Profil ResearchGate
-- Profil Orcid
+<a href="https://scholar.google.com/citations?user=HRSz8loAAAAJ&hl=en" target="_blank"><img alt="GoogleScholar" src="https://user-images.githubusercontent.com/91669852/179966753-6790be8c-0d2c-46cf-ae2e-20db1632aa6c.png" /></a> Mon profil Google Scholar
+
+<a href="https://www.researchgate.net/profile/Sandy-Morais-4" target="_blank"><img alt="ResearchGate" src="https://user-images.githubusercontent.com/91669852/179966802-2d986d77-cc22-48e6-9f65-8ab77b4a80c7.png" /></a> Mon profil ResearchGate
+
+<a href="https://orcid.org/0000-0003-2403-6748" target="_blank"><img alt="ResearchGate" src="https://user-images.githubusercontent.com/91669852/179966906-647b3993-3373-442c-a0a7-9578cb708140.png" /></a> Mon profil ORCID (0000-0003-2403-6748
+)
 
 # Blog
+
+
 Wordpress
 
 # Social media 🌐
