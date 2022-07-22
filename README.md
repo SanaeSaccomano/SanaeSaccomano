@@ -9,13 +9,24 @@
 
 <a href="https://www.researchgate.net/profile/Sandy-Morais-4" target="_blank"><img alt="ResearchGate" src="https://user-images.githubusercontent.com/91669852/179966802-2d986d77-cc22-48e6-9f65-8ab77b4a80c7.png" /></a> Mon profil ResearchGate
 
-<a href="https://orcid.org/0000-0003-2403-6748" target="_blank"><img alt="ResearchGate" src="https://user-images.githubusercontent.com/91669852/179966906-647b3993-3373-442c-a0a7-9578cb708140.png" /></a> Mon profil ORCID (0000-0003-2403-6748
-)
+<a href="https://orcid.org/0000-0003-2403-6748" target="_blank"><img alt="ResearchGate" src="https://user-images.githubusercontent.com/91669852/179966906-647b3993-3373-442c-a0a7-9578cb708140.png" /></a> Mon profil ORCID (0000-0003-2403-6748)
 
-# Blog
+# Vulgarisation
+<a href="https://wordpress.com/home/gossiplearn.wordpress.com" target="_blank"><img alt="Wordpress" src="https://user-images.githubusercontent.com/91669852/180440028-8679ff56-0b05-4f69-b86a-e9c718a7fe57.jpg" /></a> Blog Gossip Learn
+
+![mt180](https://user-images.githubusercontent.com/91669852/180441118-a60e0a80-b43c-4d88-aff3-392b6a62b569.jpg) 2017
+Lauréate de la finale de l'université de Bordeaux <a href="https://www.youtube.com/watch?v=OnRZqV6c3GU" target="_blank"><img alt="MT180 youtube" src="https://user-images.githubusercontent.com/91669852/180442732-ecdea29e-9ee8-4bc6-8859-1318c00da369.png" /></a>
+
+![fds](https://user-images.githubusercontent.com/91669852/180441156-5c231405-261d-45ea-ba81-e395c338d5b8.png)                   ![ner](https://user-images.githubusercontent.com/91669852/180441140-65c072c4-7966-4daa-b6af-ca28281bb8fe.jpg)
 
 
-Wordpress
+
+
+
+
+
+
+
 
 # Social media 🌐
 Twitter
