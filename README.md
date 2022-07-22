@@ -13,7 +13,7 @@
 
 # Vulgarisation
 ## Blog
-<a href="https://wordpress.com/home/gossiplearn.wordpress.com" target="_blank"><img alt="Wordpress" src="https://user-images.githubusercontent.com/91669852/180440028-8679ff56-0b05-4f69-b86a-e9c718a7fe57.jpg" /></a> Blog Gossip Learn
+<a href="https://wordpress.com/home/gossiplearn.wordpress.com" target="_blank"><img alt="Wordpress" src="https://img.shields.io/badge/Gossip%20Learn-%230072C6.svg?style=for-the-badge&logo=wordpress&logoColor=white" /></a> 
 
 ## Concours
 ![mt180](https://user-images.githubusercontent.com/91669852/180441118-a60e0a80-b43c-4d88-aff3-392b6a62b569.jpg) 2017 :trophy:
@@ -56,7 +56,7 @@ Lauréate de la finale de l'université de Bordeaux <a href="https://www.youtube
 
 ## IDEs
 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FF6F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Frameworks
