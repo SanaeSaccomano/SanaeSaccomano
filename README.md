@@ -12,28 +12,24 @@
 <a href="https://orcid.org/0000-0003-2403-6748" target="_blank"><img alt="ResearchGate" src="https://user-images.githubusercontent.com/91669852/179966906-647b3993-3373-442c-a0a7-9578cb708140.png" /></a> Mon profil ORCID (0000-0003-2403-6748)
 
 # Vulgarisation
+## Blog
 <a href="https://wordpress.com/home/gossiplearn.wordpress.com" target="_blank"><img alt="Wordpress" src="https://user-images.githubusercontent.com/91669852/180440028-8679ff56-0b05-4f69-b86a-e9c718a7fe57.jpg" /></a> Blog Gossip Learn
 
+## Concours
 ![mt180](https://user-images.githubusercontent.com/91669852/180441118-a60e0a80-b43c-4d88-aff3-392b6a62b569.jpg) 2017 :trophy:
-Lauréate de la finale de l'université de Bordeaux <a href="https://www.youtube.com/watch?v=OnRZqV6c3GU" target="_blank"><img alt="MT180 youtube" src="https://user-images.githubusercontent.com/91669852/180442732-ecdea29e-9ee8-4bc6-8859-1318c00da369.png" /></a>
+Lauréate de la finale de l'université de Bordeaux <a href="https://www.youtube.com/watch?v=OnRZqV6c3GU" target="_blank"><img alt="MT180 youtube" src="https://user-images.githubusercontent.com/91669852/180447397-8f7bbec8-8e5f-4536-98ed-bb4f544da36a.png" /></a>
 
-![fds](https://user-images.githubusercontent.com/91669852/180441156-5c231405-261d-45ea-ba81-e395c338d5b8.png)                   ![ner](https://user-images.githubusercontent.com/91669852/180441140-65c072c4-7966-4daa-b6af-ca28281bb8fe.jpg)
+## Evènements
+![fds](https://user-images.githubusercontent.com/91669852/180441156-5c231405-261d-45ea-ba81-e395c338d5b8.png)
 
-
-
-
-
-
-
-
-
+![ner](https://user-images.githubusercontent.com/91669852/180448141-554c4f11-bf5e-49cf-a667-679af31f16c4.jpg)
 
 # Social media 🌐
-Twitter
 <p>
 <a href="https://github.com/SanaeSaccomano" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/sandy-morais-20570a5a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://www.codingame.com/profile/0d432f5f272b65a85c99fd8b7ec5e48b4451174"><img src="https://img.shields.io/badge/CodinGame-F2BB13.svg?style=for-the-badge&logo=CodinGame&logoColor=black"></a>
+ <a href="[https://www.codingame.com/profile/0d432f5f272b65a85c99fd8b7ec5e48b4451174](https://twitter.com/Sa_Mo_Pro)"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 # Mes compétences
@@ -55,8 +51,8 @@ Twitter
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-Matlab
-LateX
+![Matlab](https://img.shields.io/badge/Matlab-%23FF6F00.svg?style=for-the-badge&logo=Matlab&logoColor=white)
+![LateX](https://img.shields.io/badge/LateX-%23197d5d.svg?style=for-the-badge&logo=Latex&logoColor=white)
 
 ## IDEs
 
