@@ -13,7 +13,7 @@
 
 # Vulgarisation
 ## Blog
-<a href="https://wordpress.com/home/gossiplearn.wordpress.com" target="_blank"><img alt="Wordpress" src="https://img.shields.io/badge/Gossip%20Learn-%230072C6.svg?style=for-the-badge&logo=wordpress&logoColor=white" /></a> 
+<a href="https://wordpress.com/home/gossiplearn.wordpress.com" target="_blank"><img alt="Wordpress" src="https://img.shields.io/badge/Gossip%20Learn-%2300749C.svg?style=for-the-badge&logo=wordpress&logoColor=white" /></a> 
 
 ## Concours
 ![mt180](https://user-images.githubusercontent.com/91669852/180441118-a60e0a80-b43c-4d88-aff3-392b6a62b569.jpg) 2017 :trophy:
