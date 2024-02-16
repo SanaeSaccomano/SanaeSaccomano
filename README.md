@@ -1,5 +1,7 @@
 ### ![icon_obiwan](https://user-images.githubusercontent.com/91669852/178108945-1bf081e4-a23a-4c99-89d3-30d9d1d9b065.PNG) Hello there !
 
+Si les notebooks ne s'affichent pas, les visualiser via https://nbviewer.org/
+
 # Ma recherche 
 
 
